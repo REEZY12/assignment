@@ -1,0 +1,92 @@
+body{
+    background-image: linear-gradient(to top, rgba(8,19,64,0.7),rgba(8,19,64,0.7)), url("../Images/images.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 50vw;
+}
+ #img{
+    margin-right: 100px;
+}
+p {
+    text-shadow: 2px 2px #ff0000;
+  }
+body a{
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+li{
+    display: inline;
+    padding: 0,20px,0,20px;
+    
+    
+}
+.sign{
+    float: right;
+    width: 50%;
+    text-align: right;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom:150px;
+    margin-top: -50px;
+    margin-right: 120px;
+    
+} 
+
+#showcase h3{
+    margin-top: 100px;
+    color:white;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-left: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#showcase p{
+    margin-left: 200px;
+    font-size: 60px;
+    color: coral;
+}
+#showcase h4{
+    text-align: right;
+}
+ 
+.top{
+    color: #ffffff;
+    float: right;
+    text-align: right;
+    margin: 0 1%;
+    margin-top:-400px;
+    margin-right: 200px;
+    padding-top:1.3in;
+    padding-right: 0.25in;
+}
+#logo{
+    width: 50%;
+}
+.imag{
+    position: absolute;
+    z-index: -1;
+    margin-left: 355px;
+    margin-top: -32px;
+}
+h4{
+    padding-top: 160px;
+    margin-left: 250px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.button{
+    border: 1px solid #ff0000 ;
+    padding: 10px;
+    background-color:crimson;
+    text-shadow: 2px 2px #000000;
+    color:antiquewhite;
+    font-family:verdana;
+}
+.button:hover{
+    background-color: ghostwhite;
+    color:crimson;
+    cursor: pointer;
+}
